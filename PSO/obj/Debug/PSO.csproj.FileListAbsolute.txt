@@ -1,0 +1,20 @@
+C:\CODE\C#\PSO\PSO_Form\PSO\PSO\bin\Debug\PSO.exe.config
+C:\CODE\C#\PSO\PSO_Form\PSO\PSO\bin\Debug\PSO.exe
+C:\CODE\C#\PSO\PSO_Form\PSO\PSO\bin\Debug\PSO.pdb
+C:\CODE\C#\PSO\PSO_Form\PSO\PSO\obj\Debug\PSO.csprojAssemblyReference.cache
+C:\CODE\C#\PSO\PSO_Form\PSO\PSO\obj\Debug\PSO.Form1.resources
+C:\CODE\C#\PSO\PSO_Form\PSO\PSO\obj\Debug\PSO.Properties.Resources.resources
+C:\CODE\C#\PSO\PSO_Form\PSO\PSO\obj\Debug\PSO.csproj.GenerateResource.cache
+C:\CODE\C#\PSO\PSO_Form\PSO\PSO\obj\Debug\PSO.csproj.CoreCompileInputs.cache
+C:\CODE\C#\PSO\PSO_Form\PSO\PSO\obj\Debug\PSO.exe
+C:\CODE\C#\PSO\PSO_Form\PSO\PSO\obj\Debug\PSO.pdb
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\PSO\PSO_Form\PSO\PSO\bin\Debug\PSO.exe.config
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\PSO\PSO_Form\PSO\PSO\bin\Debug\PSO.exe
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\PSO\PSO_Form\PSO\PSO\bin\Debug\PSO.pdb
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\PSO\PSO_Form\PSO\PSO\obj\Debug\PSO.csprojAssemblyReference.cache
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\PSO\PSO_Form\PSO\PSO\obj\Debug\PSO.Properties.Resources.resources
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\PSO\PSO_Form\PSO\PSO\obj\Debug\PSO.csproj.GenerateResource.cache
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\PSO\PSO_Form\PSO\PSO\obj\Debug\PSO.csproj.CoreCompileInputs.cache
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\PSO\PSO_Form\PSO\PSO\obj\Debug\PSO.exe
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\PSO\PSO_Form\PSO\PSO\obj\Debug\PSO.pdb
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\PSO\PSO_Form\PSO\PSO\obj\Debug\PSO.PSOForm.resources
